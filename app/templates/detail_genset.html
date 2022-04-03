@@ -145,7 +145,7 @@
                                             <td>{{ x.lama_penggunaan }} JAM</td>
                                             <td>{{ x.alasan_pemakaian }}</td>
                                             <td>{{ x.lokasi }}</td>
-                                            <td>{{ x.created_at }}</td>
+                                            <td>{{ x.created_at|date:"d-m-Y" }}</td>
                                         </tr>
                                     {% endfor %}
                                     </tbody>

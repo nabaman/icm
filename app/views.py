@@ -13,7 +13,9 @@ def home(request):
         'ready':DataGenset.objects.filter(status_genset="READY").count(),
         'dipakai':DataGenset.objects.filter(status_genset="DIPAKAI").count(),
         'diservis':DataGenset.objects.filter(status_genset="SERVIS").count(),
-        'sparepart': TipeSparepart.objects.all()
+        'sparepart': TipeSparepart.objects.all(),
+        'nama_genset':[x.jenis_genset for x in DataGenset.objects.all()],
+        'series': [x.jam_penggunaan for x in DataGenset.objects.all()]
     }
     return render(request, 'home.html', context)
 

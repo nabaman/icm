@@ -103,9 +103,11 @@
                     {% for a in x.sparepart_set.all %}
                         {% if a.qty <= x.limit_notif %}
                             {% if x.jenis_sparepart ==  'OLI' or x.jenis_sparepart == 'COOLANT' %}
-                                <b><p style="font-size: 10px;color: red">{{ a.merek }} {{ a.pn }} : {{ a.qty }} Liter </p></b>
+                                <b><p style="font-size: 10px;color: red">{{ a.merek }} {{ a.pn }} : {{ a.qty }}
+                                    Liter </p></b>
                             {% else %}
-                                <b><p style="font-size: 10px;color: red">{{ a.merek }} {{ a.pn }} : {{ a.qty }} Pcs </p></b>
+                                <b><p style="font-size: 10px;color: red">{{ a.merek }} {{ a.pn }} : {{ a.qty }} Pcs </p>
+                                </b>
                             {% endif %}
                         {% else %}
                             {% if x.jenis_sparepart ==  'OLI' or x.jenis_sparepart == 'COOLANT' %}
@@ -128,5 +130,31 @@
     <script>
         let jquery_datatable1 = $("#table1").DataTable({"pageLength": 5, 'ordering': false})
         let jquery_datatable2 = $("#table2").DataTable({"pageLength": 5})
+        var optionsProfileVisit = {
+            annotations: {
+                position: 'back'
+            },
+            dataLabels: {
+                enabled: false
+            },
+            chart: {
+                type: 'bar',
+                height: 300
+            },
+            fill: {
+                opacity: 1
+            },
+            plotOptions: {},
+            series: [{
+                name: 'jumlah jam',
+                data:{{series|safe}}
+            },],
+            colors: '#435ebe',
+            xaxis: {
+                categories: {{ nama_genset|safe }},
+            },
+        }
+        var chartProfileVisit = new ApexCharts(document.querySelector("#chart-profile-visit"), optionsProfileVisit);
+        chartProfileVisit.render()
     </script>
 {% endblock %}
