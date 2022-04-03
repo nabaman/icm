@@ -1,0 +1,205 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+    <div class="page-heading">
+        <h3>DETAIL GENSET</h3>
+    </div>
+    <div class="page-content">
+        <section class="row">
+            <div class="col-12 col-lg-12">
+                <div class="row">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="row">
+                                <div class="col-6">
+                                    <h1 class="card-title">{{ data.jenis_genset }}</h1>
+                                    <h1 class="card-title">NOPOL : {{ data.nopol }}</h1>
+                                    <div class="col-6"
+                                         hx-target="this"
+                                         hx-swap="innerHTML">
+                                        <div style="cursor: pointer" class="statusgenset" hx-get="{% url 'dropdownstatus' id=data.id %}">
+                                            {% if data.status_genset == "DIPAKAI" %}
+                                                <span class="badge bg-primary">{{ data.status_genset }}</span>
+                                            {% elif data.status_genset == "GROUNDED" %}
+                                                <span class="badge bg-dark">{{ data.status_genset }}</span>
+                                            {% elif data.status_genset == "SERVIS" %}
+                                                <span class="badge bg-warning">{{ data.status_genset }}</span>
+                                            {% elif data.status_genset == "READY" %}
+                                                <span class="badge bg-success">{{ data.status_genset }}</span>
+                                            {% endif %}
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <h3>TOTAL PEMAKAIAN : {{ data.jam_penggunaan }} JAM</h3>
+                                    <button data-bs-toggle="modal"
+                                            data-bs-target="#genset_modal" class="btn btn-light-primary">PENGGUNAAN GENSET
+                                    </button>
+                                    <button data-bs-toggle="modal"
+                                            data-bs-target="#servis_modal" class="btn btn-secondary">PENGAJUAN SERVIS
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <div class="card-body">
+                                <form class="form form-vertical">
+                                    <div class="form-body">
+                                        <div class="row">
+                                            <div class="col-6">
+                                                <div class="form-group">
+                                                    <label for="first-name-vertical">Merk</label>
+                                                    <input readonly type="text" id="first-name-vertical"
+                                                           class="form-control"
+                                                           name="fname" value="{{ data.merek_genset }}">
+                                                </div>
+                                            </div>
+                                            <div class="col-6">
+                                                <div class="form-group">
+                                                    <label for="email-id-vertical">Type</label>
+                                                    <input readonly type="email" id="email-id-vertical"
+                                                           class="form-control"
+                                                           name="email-id" value="{{ data.type_genset }}">
+                                                </div>
+                                            </div>
+                                            <div class="col-6">
+                                                <div class="form-group">
+                                                    <label for="contact-info-vertical">Serial Number</label>
+                                                    <input readonly type="text" id="contact-info-vertical"
+                                                           class="form-control"
+                                                           name="contact" value="{{ data.sn_genset }}">
+                                                </div>
+                                            </div>
+                                            <div class="col-6">
+                                                <div class="form-group">
+                                                    <label for="password-vertical">KVA</label>
+                                                    <input readonly type="text" id="password-vertical"
+                                                           class="form-control"
+                                                           name="contact" value="{{ data.kva }}">
+                                                </div>
+                                            </div>
+                                            <div class="col-6">
+                                                <div class="form-group">
+                                                    <label for="password-vertical">Engine</label>
+                                                    <input readonly type="text" id="password-vertical"
+                                                           class="form-control"
+                                                           name="contact" value="{{ data.merek_engine }}">
+                                                </div>
+                                            </div>
+                                            <div class="col-6">
+                                                <div class="form-group">
+                                                    <label for="password-vertical">Engine Type</label>
+                                                    <input readonly type="text" id="password-vertical"
+                                                           class="form-control"
+                                                           name="contact" value="{{ data.type_engine }}">
+                                                </div>
+                                            </div>
+                                            <div class="col-6">
+                                                <div class="form-group">
+                                                    <label for="password-vertical">Generator</label>
+                                                    <input readonly type="text" id="password-vertical"
+                                                           class="form-control"
+                                                           name="contact" value="{{ data.merek_generator }}">
+                                                </div>
+                                            </div>
+                                            <div class="col-6">
+                                                <div class="form-group">
+                                                    <label for="password-vertical">Generator Serial Number</label>
+                                                    <input readonly type="text" id="password-vertical"
+                                                           class="form-control"
+                                                           name="contact" value="{{ data.sn_generator }}">
+                                                </div>
+                                            </div>
+                                            <div class="col-6 d-flex justify-content-end">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="row">
+                    <div class="card">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>DETAIL PEMAKAIAN GENSET</h3>
+                            </div>
+                            <div class="card-body table-responsive">
+                                <table class="table table-responsive" id="table1">
+                                    <thead>
+                                    <tr>
+                                        <th>PIC</th>
+                                        <th>DURASI PEMAKAIAN</th>
+                                        <th>TUJUAN PEMAKAIAN</th>
+                                        <th>LOKASI PEMAKAIAN</th>
+                                        <th>TANGGAL</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% for x in pemakaian %}
+                                        <tr>
+                                            <td>{{ x.pic }}</td>
+                                            <td>{{ x.lama_penggunaan }} JAM</td>
+                                            <td>{{ x.alasan_pemakaian }}</td>
+                                            <td>{{ x.lokasi }}</td>
+                                            <td>{{ x.created_at }}</td>
+                                        </tr>
+                                    {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="row">
+                    <div class="card">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>DETAIL SERVIS GENSET</h3>
+                            </div>
+                            <div class="card-body table-responsive">
+                                <table class="table table-responsive" id="table2">
+                                    <thead>
+                                    <tr>
+                                        <th>PIC</th>
+                                        <th>JENIS SERVIS</th>
+                                        <th>TANGGAL</th>
+                                        <th>SPAREPART DIGUNAKAN</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    {% for x in servis %}
+                                        <tr>
+                                            <td>{{ x.pic }}</td>
+                                            <td>{{ x.jenis_servis }} JAM</td>
+                                            <td>{{ x.tanggal_servis|date:'d-m-Y' }}</td>
+                                            <td>
+                                                {% for key,value in x.sparepart.items %}
+                                                    <u><p class="border-bottom-2">{{ key }} : {{ value }} pcs,</p></u>
+                                                {% endfor %}
+                                            </td>
+                                        </tr>
+                                    {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    {% include "modal_servis.html" %}
+    {% include "modal_pemakaian.html" %}
+{% endblock content %}
+{% block custom_script %}
+    <script>
+        let jquery_datatable1 = $("#table1").DataTable({'pageLength': 5})
+        let jquery_datatable2 = $("#table2").DataTable({'pageLength': 5})
+    </script>
+{% endblock %}

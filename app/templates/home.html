@@ -1,92 +1,132 @@
 {% extends "base.html" %}
 {% block content %}
-<div class="page-heading">
-    <h3>Profile Statistic</h3>
-</div>
-<div class="page-content">
+    <div class="page-heading">
+        <h3>GENSET MANAJEMEN DASHBOARD</h3>
+    </div>
+    <div class="page-content">
     <section class="row">
-        <div class="col-12 col-lg-9">
-            <div class="row">
-                <div class="col-6 col-lg-3 col-md-6">
-                    <div class="card">
-                        <div class="card-body px-3 py-4-5">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="stats-icon purple">
-                                        <i class="iconly-boldShow"></i>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h6 class="text-muted font-semibold">Profile Views</h6>
-                                    <h6 class="font-extrabold mb-0">112.000</h6>
+    <div class="col-12 col-lg-9">
+        <div class="row">
+            <div class="col-6 col-lg-3 col-md-6">
+                <div class="card">
+                    <div class="card-body px-3 py-4-5">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="stats-icon purple">
+                                    <i class="iconly-boldShow"></i>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 col-md-6">
-                    <div class="card">
-                        <div class="card-body px-3 py-4-5">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="stats-icon blue">
-                                        <i class="iconly-boldProfile"></i>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h6 class="text-muted font-semibold">Followers</h6>
-                                    <h6 class="font-extrabold mb-0">183.000</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 col-md-6">
-                    <div class="card">
-                        <div class="card-body px-3 py-4-5">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="stats-icon green">
-                                        <i class="iconly-boldAdd-User"></i>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h6 class="text-muted font-semibold">Following</h6>
-                                    <h6 class="font-extrabold mb-0">80.000</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 col-md-6">
-                    <div class="card">
-                        <div class="card-body px-3 py-4-5">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="stats-icon red">
-                                        <i class="iconly-boldBookmark"></i>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h6 class="text-muted font-semibold">Saved Post</h6>
-                                    <h6 class="font-extrabold mb-0">112</h6>
-                                </div>
+                            <div class="col-md-8">
+                                <h6 class="text-muted font-semibold">TOTAL GENSET</h6>
+                                <h6 class="font-extrabold mb-0">{{ genset.count }}</h6>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="card">
-                        <div class="card-header">
-                            <h4>Profile Visit</h4>
+            <div class="col-6 col-lg-3 col-md-6">
+                <div class="card">
+                    <div class="card-body px-3 py-4-5">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="stats-icon blue">
+                                    <i class="iconly-boldProfile"></i>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <h6 class="text-muted font-semibold">GENSET READY</h6>
+                                <h6 class="font-extrabold mb-0">{{ ready }}</h6>
+                            </div>
                         </div>
-                        <div class="card-body">
-                            <div id="chart-profile-visit"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 col-md-6">
+                <div class="card">
+                    <div class="card-body px-3 py-4-5">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="stats-icon green">
+                                    <i class="iconly-boldAdd-User"></i>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <h6 class="text-muted font-semibold">GENSET TERPAKAI</h6>
+                                <h6 class="font-extrabold m-0">{{ dipakai }}</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3 col-md-6">
+                <div class="card">
+                    <div class="card-body px-3 py-4-5">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="stats-icon red">
+                                    <i class="iconly-boldBookmark"></i>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <h6 class="text-muted font-semibold">GENSET DI SERVIS</h6>
+                                <h6 class="font-extrabold mb-0">{{ diservis }}</h6>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Statistic GENSET</h4>
+                    </div>
+                    <div class="card-body">
+                        <div id="chart-profile-visit"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% include "genset.html" %}
+        {% include "servis.html" %}
+
+    </div>
+    <div class="col-lg-3">
+        <div class="card">
+            <div class="card-header">
+                <h5>STOK SPAREPART</h5>
+            </div>
+            <div class="card-body">
+                {% for x in sparepart %}
+                    <p><b>{{ x.jenis_sparepart }}</b></p>
+                    {% for a in x.sparepart_set.all %}
+                        {% if a.qty <= x.limit_notif %}
+                            {% if x.jenis_sparepart ==  'OLI' or x.jenis_sparepart == 'COOLANT' %}
+                                <b><p style="font-size: 10px;color: red">{{ a.merek }} {{ a.pn }} : {{ a.qty }} Liter </p></b>
+                            {% else %}
+                                <b><p style="font-size: 10px;color: red">{{ a.merek }} {{ a.pn }} : {{ a.qty }} Pcs </p></b>
+                            {% endif %}
+                        {% else %}
+                            {% if x.jenis_sparepart ==  'OLI' or x.jenis_sparepart == 'COOLANT' %}
+                                <b><p style="font-size: 10px;">{{ a.merek }} {{ a.pn }} : {{ a.qty }} Liter </p></b>
+                            {% else %}
+                                <b><p style="font-size: 10px;">{{ a.merek }} {{ a.pn }} : {{ a.qty }} Pcs </p></b>
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+
+                {% endfor %}
+
+                <p></p>
+            </div>
+        </div>
+    </div>
+
 {% endblock content %}
+{% block custom_script %}
+    <script>
+        let jquery_datatable1 = $("#table1").DataTable({"pageLength": 5, 'ordering': false})
+        let jquery_datatable2 = $("#table2").DataTable({"pageLength": 5})
+    </script>
+{% endblock %}

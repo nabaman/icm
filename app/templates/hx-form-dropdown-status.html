@@ -1,0 +1,14 @@
+<div class="wrapper">
+    <form class="form-group">
+        <select class="form-select" name="status_genset" id="status_genset">
+            <option value="">-</option>
+            {% for x in status %}
+                <option value="{{ x.0 }}">{{ x.0 }}</option>
+            {% endfor %}
+        </select>
+        <button hx-target=".wrapper"
+                hx-post="{% url 'dropdownstatus' id=data.id %}"
+                hx-include="[name='status_genset']"
+                class="btn btn-success mt-3">SAVE</button>
+    </form>
+</div>

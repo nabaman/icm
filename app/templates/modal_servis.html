@@ -1,0 +1,55 @@
+<div class="modal fade text-left" id="servis_modal" tabindex="-1" role="dialog"
+     aria-labelledby="myModalLabel33" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable"
+         role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myModalLabel33">INPUT SERVIS GENSET </h4>
+                <button type="button" class="close" data-bs-dismiss="modal"
+                        aria-label="Close">
+                    <i data-feather="x"></i>
+                </button>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <form class="form form-horizontal" method="POST">
+                        {% csrf_token %}
+                        <div class="form-body">
+                            <div class="row mt-5">
+                                <div class="col-md-4">
+                                    {{ form.jenis_servis.label }}
+                                </div>
+                                <div class="col-md-8 form-group">
+                                    {{ form.jenis_servis }}
+                                </div>
+                                <div class="col-md-4">
+                                    {{ form.tanggal_servis.label }}
+                                </div>
+                                <div class="col-md-8 form-group">
+                                    {{ form.tanggal_servis }}
+                                </div>
+                                <div class="col-md-12">
+                                    <h3>Sparepart Item</h3>
+                                    <hr>
+                                </div>
+                                {% for x in data.sparepart.all %}
+                                    <div class="col-md-4">
+                                        <label>{{ x.tipe_sparepart.jenis_sparepart }} {{ x.merek }} {{ x.pn }}</label>
+                                    </div>
+                                    <div class="col-md-8 form-group">
+                                        <input type="number" id="contact-info" class="form-control" name="{{ x.tipe_sparepart.jenis_sparepart }}"
+                                               value="0">
+                                    </div>
+                                {% endfor %}
+                                <div class="col-sm-12 d-flex justify-content-end">
+                                    <button type="submit" class="btn btn-primary me-1 mb-1">Submit</button>
+                                    <button type="reset" class="btn btn-light-secondary me-1 mb-1">Reset</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

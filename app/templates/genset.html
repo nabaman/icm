@@ -1,0 +1,58 @@
+<section class="row">
+    <div class="col-12">
+        <div class="row">
+            <section class="section">
+                <div class="card">
+                    <div class="card-header">
+                        <h1>DATA GENSET</h1>
+                    </div>
+                    <div class="card-body table-responsive">
+                        <table class="table table-responsive" id="table1">
+                            <thead>
+                            <tr>
+                                <th>MPU</th>
+                                <th>MEREK GENSET</th>
+                                <th>DURASI PEMAKAIAN</th>
+                                <th>NOPOL</th>
+                                <th>SERIAL NUMBER</th>
+                                <th>STATUS</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            {% for x in genset %}
+                                <tr>
+                                    <td>{{ x.jenis_genset }}</td>
+                                    <td>{{ x.merek_genset }}</td>
+                                    <td>{{ x.jam_penggunaan }} Jam</td>
+                                    <td>{{ x.nopol }}</td>
+                                    <td>{{ x.sn_genset }}</td>
+                                    <td>
+                                        {% if x.status_genset == "DIPAKAI" %}
+                                            <a href="{% url 'detailgenset' id=x.id %}"
+                                               class="badge bg-primary">{{ x.status_genset }}</a>
+                                        {% elif x.status_genset == "GROUNDED" %}
+                                            <a href="{% url 'detailgenset' id=x.id %}"
+                                               class="badge bg-dark">{{ x.status_genset }}</a>
+                                        {% elif x.status_genset == "SERVIS" %}
+                                            <a href="{% url 'detailgenset' id=x.id %}"
+                                               class="badge bg-warning">{{ x.status_genset }}</a>
+                                        {% elif x.status_genset == "READY" %}
+                                            <a href="{% url 'detailgenset' id=x.id %}"
+                                               class="badge bg-success">{{ x.status_genset }}</a>
+                                        {% endif %}
+
+                                    </td>
+                                </tr>
+                            {% endfor %}
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </section>
+            <!-- Basic Tables end -->
+        </div>
+    </div>
+</section>

@@ -1,0 +1,1 @@
+web: gunicorn mazer.wsgi --log-file -

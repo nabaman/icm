@@ -1,0 +1,4886 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2022-04-01T16:24:07.889Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "1",
+      "object_repr": "PERKINS FG WILLSON",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2022-04-01T16:24:14.472Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "2",
+      "object_repr": "AIRMAN",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2022-04-01T16:24:22.243Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "3",
+      "object_repr": "PERKINS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2022-04-01T16:24:25.159Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "4",
+      "object_repr": "PERKINS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2022-04-01T16:24:32.238Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "4",
+      "object_repr": "PERKINS",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2022-04-01T16:24:45.570Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "5",
+      "object_repr": "NIPPON SHARYO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2022-04-01T16:24:49.405Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "5",
+      "object_repr": "NIPPON SHARYO",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2022-04-01T16:24:54.603Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "6",
+      "object_repr": "DENYO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2022-04-01T16:25:01.134Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "7",
+      "object_repr": "KOMATSU",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2022-04-01T16:25:05.983Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "8",
+      "object_repr": "CUMMINS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2022-04-01T16:25:20.071Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "9",
+      "object_repr": "CUMMINS CCEC BIRU",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2022-04-01T16:25:25.207Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "10",
+      "object_repr": "CUMMINS CCEC HIJAU",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2022-04-01T16:25:48.454Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "11",
+      "object_repr": "SDMO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2022-04-01T16:25:53.315Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "12",
+      "object_repr": "HONDA",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2022-04-01T16:25:58.318Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "13",
+      "object_repr": "SAWADA",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2022-04-01T16:26:37.071Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "1",
+      "object_repr": "SDG 60S",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2022-04-01T17:13:03.051Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "2",
+      "object_repr": "SILENT",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2022-04-01T17:13:14.022Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "3",
+      "object_repr": "SDG 75S",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2022-04-01T17:13:23.180Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "4",
+      "object_repr": "NES 90SHE",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2022-04-01T17:13:34.296Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "5",
+      "object_repr": "NES 90Ei",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2022-04-01T17:13:47.500Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "6",
+      "object_repr": "DCA 125 SPK3",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2022-04-01T17:13:52.374Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "7",
+      "object_repr": "S6D",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2022-04-01T17:13:57.159Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "8",
+      "object_repr": "6BT",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2022-04-01T17:14:02.090Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "9",
+      "object_repr": "6 CTA",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2022-04-01T17:14:06.425Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "10",
+      "object_repr": "SDG 220S",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2022-04-01T17:14:11.682Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "11",
+      "object_repr": "DCA 220SP",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2022-04-01T17:14:17.441Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "12",
+      "object_repr": "NTA",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2022-04-01T17:17:04.323Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "14",
+      "object_repr": "HINO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2022-04-01T17:17:08.822Z",
+      "user": 1,
+      "content_type": 13,
+      "object_id": "15",
+      "object_repr": "ISUZU",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2022-04-01T17:26:25.115Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "PERKINS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2022-04-01T17:26:39.424Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "ISUZU",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2022-04-01T17:26:58.662Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "PERKINS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2022-04-01T17:27:14.677Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "4",
+      "object_repr": "ISUZU",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2022-04-01T17:27:50.078Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "5",
+      "object_repr": "HINO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2022-04-01T17:28:19.889Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "6",
+      "object_repr": "KOMATSU",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2022-04-01T17:28:35.373Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "7",
+      "object_repr": "KOMATSU",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2022-04-01T17:28:45.908Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "8",
+      "object_repr": "CUMMINS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2022-04-01T17:30:14.841Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "7",
+      "object_repr": "KOMATSU",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tipe\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2022-04-01T17:30:24.073Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "8",
+      "object_repr": "CUMMINS",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tipe\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2022-04-01T17:30:31.436Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "9",
+      "object_repr": "CUMMINS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2022-04-01T17:30:49.039Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "10",
+      "object_repr": "HINO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2022-04-01T17:30:57.323Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "11",
+      "object_repr": "KOMATSU",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2022-04-01T17:31:07.940Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "12",
+      "object_repr": "CUMMINS",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2022-04-01T17:32:13.429Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "1",
+      "object_repr": "LEROY SOMER",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2022-04-01T17:32:43.117Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "2",
+      "object_repr": "TAIYO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2022-04-01T17:33:02.016Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "3",
+      "object_repr": "TAIYO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2022-04-01T17:33:16.384Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "4",
+      "object_repr": "TAIYO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2022-04-01T17:33:30.153Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "5",
+      "object_repr": "TAIYO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2022-04-01T17:33:47.023Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "6",
+      "object_repr": "LEROY SOMER",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2022-04-01T17:34:02.931Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "7",
+      "object_repr": "TAIYO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2022-04-01T17:34:16.999Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "8",
+      "object_repr": "TAIYO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2022-04-01T17:34:31.070Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "9",
+      "object_repr": "BRUSSHLESS AC GENERATOR",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2022-04-01T17:35:01.100Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "10",
+      "object_repr": "BRUSSHLESS AC GENERATOR",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2022-04-01T17:35:12.282Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "11",
+      "object_repr": "NEW AGE STAMFORD",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2022-04-01T17:35:27.312Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "12",
+      "object_repr": "NEW AGE STAMFORD",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+      "action_time": "2022-04-01T17:35:41.764Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "13",
+      "object_repr": "NEW AGE STAMFORD",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+      "action_time": "2022-04-01T17:35:58.648Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "14",
+      "object_repr": "TAIYO",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+      "action_time": "2022-04-01T17:36:09.846Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "15",
+      "object_repr": "Denyo",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+      "action_time": "2022-04-01T17:36:19.150Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "16",
+      "object_repr": "STAMFORD",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+      "action_time": "2022-04-01T17:36:34.632Z",
+      "user": 1,
+      "content_type": 12,
+      "object_id": "17",
+      "object_repr": "STAMFORD",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+      "action_time": "2022-04-01T17:38:15.775Z",
+      "user": 1,
+      "content_type": 14,
+      "object_id": "13",
+      "object_repr": "HP",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+      "action_time": "2022-04-01T17:39:47.478Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "PERKINS FG WILLSON B 9912 PAT",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+      "action_time": "2022-04-02T08:04:17.933Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "1",
+      "object_repr": "FILTER OLI",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+      "action_time": "2022-04-02T08:04:21.512Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "2",
+      "object_repr": "FILTER SOLAR",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+      "action_time": "2022-04-02T08:04:25.610Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "3",
+      "object_repr": "FILTER UDARA",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+      "action_time": "2022-04-02T08:04:40.695Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "4",
+      "object_repr": "VAN BELT",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+      "action_time": "2022-04-02T08:05:01.266Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "5",
+      "object_repr": "SOLAR",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+      "action_time": "2022-04-02T08:05:07.960Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "6",
+      "object_repr": "COOLANT",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+      "action_time": "2022-04-02T08:05:13.076Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "7",
+      "object_repr": "OLI",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+      "action_time": "2022-04-02T08:05:20.629Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "8",
+      "object_repr": "AKI",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+      "action_time": "2022-04-02T08:06:18.452Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "FILTER SOLAR SAKURA FC 1501",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+      "action_time": "2022-04-02T08:07:14.939Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "FILTER OLI SAKURA C 1706",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+      "action_time": "2022-04-02T08:08:10.030Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "FILTER UDARA DONALDSON P 815288",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+      "action_time": "2022-04-02T08:12:13.440Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "AIRMAN B 9370 RR SDG 60S 147- 070725",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+      "action_time": "2022-04-02T08:13:47.472Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "AIRMAN B 9370 RR SDG 60S 147- 070725",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Jenis genset\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+      "action_time": "2022-04-02T08:16:25.283Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "SOLAR sanyo asasjnfjasnf",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+      "action_time": "2022-04-02T08:16:40.768Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "AIRMAN B 9370 RR SDG 60S 147- 070725",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+      "action_time": "2022-04-02T08:20:18.962Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "SOLAR sanyo asasjnfjasnf",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+      "action_time": "2022-04-02T08:21:40.355Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "FILTER SOLAR PROGARD PFC 084",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+      "action_time": "2022-04-02T08:21:57.554Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "FILTER SOLAR SAKURA FC 1303",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+      "action_time": "2022-04-02T08:22:22.937Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "FILTER SOLAR SAKURA FC 2701",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+      "action_time": "2022-04-02T08:22:39.927Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "FILTER SOLAR FLEETGUARD FF 5052",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+      "action_time": "2022-04-02T08:22:50.640Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "FILTER SOLAR UNION UFC 1902",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+      "action_time": "2022-04-02T08:23:20.838Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "FILTER SOLAR FLEETGUARD FF 105 D",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+      "action_time": "2022-04-02T08:23:45.249Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "FILTER SOLAR FLEETGUARD FS 1000",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+      "action_time": "2022-04-02T08:25:45.142Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "FILTER OLI SAKURA O 1502",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+      "action_time": "2022-04-02T08:26:04.140Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "FILTER OLI PROGARD POC 154",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+      "action_time": "2022-04-02T08:26:16.494Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "FILTER OLI SAKURA O 1301",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+      "action_time": "2022-04-02T08:26:29.958Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "FILTER OLI FLEETGUARD LF 670",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+      "action_time": "2022-04-02T08:26:44.255Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "16",
+      "object_repr": "FILTER OLI SAKURA C 1304",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+      "action_time": "2022-04-02T08:26:59.900Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "17",
+      "object_repr": "FILTER OLI FLEETGUARD LF 3394",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+      "action_time": "2022-04-02T08:27:12.725Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "18",
+      "object_repr": "FILTER OLI UNION UOC 9104",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+      "action_time": "2022-04-02T08:27:26.458Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "19",
+      "object_repr": "FILTER OLI HINO 15607-1340",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 94,
+    "fields": {
+      "action_time": "2022-04-02T08:28:13.081Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "20",
+      "object_repr": "FILTER OLI FLEETGUARD LF 747",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 95,
+    "fields": {
+      "action_time": "2022-04-02T08:28:26.177Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "21",
+      "object_repr": "FILTER OLI FLEETGUARD LF 3000",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 96,
+    "fields": {
+      "action_time": "2022-04-02T08:28:35.908Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "22",
+      "object_repr": "FILTER OLI FLEETGUARD LF 9009",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 97,
+    "fields": {
+      "action_time": "2022-04-02T08:29:05.567Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "9",
+      "object_repr": "FILTER AIR",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 98,
+    "fields": {
+      "action_time": "2022-04-02T08:29:17.094Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "23",
+      "object_repr": "FILTER AIR FLEETGUARD WF 2051",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 99,
+    "fields": {
+      "action_time": "2022-04-02T08:29:39.056Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "24",
+      "object_repr": "FILTER AIR FLEETGUARD WF 2075",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 100,
+    "fields": {
+      "action_time": "2022-04-02T08:29:50.269Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "25",
+      "object_repr": "FILTER AIR FLEETGUARD WF 2076",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 101,
+    "fields": {
+      "action_time": "2022-04-02T08:31:04.577Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "26",
+      "object_repr": "FILTER UDARA JIMCO None",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 102,
+    "fields": {
+      "action_time": "2022-04-02T08:31:19.011Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "27",
+      "object_repr": "FILTER UDARA SAKURA AS 1010",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 103,
+    "fields": {
+      "action_time": "2022-04-02T08:31:49.040Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "28",
+      "object_repr": "FILTER UDARA SAKURA FC 2701",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 104,
+    "fields": {
+      "action_time": "2022-04-02T08:33:04.077Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "29",
+      "object_repr": "FILTER UDARA KOMATSU 600-181-6550",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 105,
+    "fields": {
+      "action_time": "2022-04-02T08:33:18.009Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "30",
+      "object_repr": "FILTER UDARA FLEETGUARD AF 928 M-A",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 106,
+    "fields": {
+      "action_time": "2022-04-02T08:33:40.319Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "31",
+      "object_repr": "FILTER UDARA MITSUBOSHI RCEMF 8460",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 107,
+    "fields": {
+      "action_time": "2022-04-02T08:33:53.872Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "31",
+      "object_repr": "VAN BELT MITSUBOSHI RCEMF 8460",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Tipe sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 108,
+    "fields": {
+      "action_time": "2022-04-02T08:34:19.627Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "32",
+      "object_repr": "VAN BELT PERKINS 2614 B 358",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 109,
+    "fields": {
+      "action_time": "2022-04-02T08:34:32.694Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "33",
+      "object_repr": "VAN BELT BANDO RPF 5840",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 110,
+    "fields": {
+      "action_time": "2022-04-02T08:34:49.114Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "34",
+      "object_repr": "VAN BELT MITSUBOSHI 113671-2270",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 111,
+    "fields": {
+      "action_time": "2022-04-02T08:35:02.676Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "35",
+      "object_repr": "VAN BELT BANDO RPF 5550",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 112,
+    "fields": {
+      "action_time": "2022-04-02T08:35:38.105Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "36",
+      "object_repr": "VAN BELT CUMMINS 217638 ID: 21013",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 113,
+    "fields": {
+      "action_time": "2022-04-02T08:35:53.892Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "37",
+      "object_repr": "VAN BELT CUMMINS 3040303 ID: 21013",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 114,
+    "fields": {
+      "action_time": "2022-04-02T08:36:08.494Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "38",
+      "object_repr": "VAN BELT CUMMINS 178708 ID: 21013",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 115,
+    "fields": {
+      "action_time": "2022-04-02T08:36:29.554Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "39",
+      "object_repr": "AKI GS ASTRA N 100 95 E41R",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 116,
+    "fields": {
+      "action_time": "2022-04-02T08:36:47.593Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "40",
+      "object_repr": "COOLANT PRESTONE AF 85338",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 117,
+    "fields": {
+      "action_time": "2022-04-02T08:38:44.074Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "AIRMAN B 9370 RR SDG 60S 147- 070725",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\", \"Jam penggunaan\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 118,
+    "fields": {
+      "action_time": "2022-04-02T08:40:36.178Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "AIRMAN B 9370 RR SDG 60S 147- 070725",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 119,
+    "fields": {
+      "action_time": "2022-04-02T08:42:13.958Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "FG WILLSON B 9912 PAT None HP 51099 U 983698 K",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 120,
+    "fields": {
+      "action_time": "2022-04-02T08:47:28.512Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "39",
+      "object_repr": "AKI GS ASTRA N 100",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Pn\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 121,
+    "fields": {
+      "action_time": "2022-04-02T08:47:53.449Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "41",
+      "object_repr": "AKI GS ASTRA N 70",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 122,
+    "fields": {
+      "action_time": "2022-04-02T08:48:06.264Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "3",
+      "object_repr": "AIRMAN TWH 22 E SDG 60S 147- 070430",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 123,
+    "fields": {
+      "action_time": "2022-04-02T08:50:18.322Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "3",
+      "object_repr": "MPU03 AIRMAN TWH 22 E SDG 60S 147- 070430",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 124,
+    "fields": {
+      "action_time": "2022-04-02T08:55:25.306Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "4",
+      "object_repr": "MPU04 AIRMAN B 9188 BDG SDG 60S 147- 070682",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 125,
+    "fields": {
+      "action_time": "2022-04-02T08:58:34.523Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "MPU02 AIRMAN B 9370 RR SDG 60S 147- 070725",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 126,
+    "fields": {
+      "action_time": "2022-04-02T08:58:48.836Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "3",
+      "object_repr": "MPU03 AIRMAN TWH 22 E SDG 60S 147- 070430",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 127,
+    "fields": {
+      "action_time": "2022-04-02T08:59:04.620Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "4",
+      "object_repr": "MPU04 AIRMAN B 9188 BDG SDG 60S 147- 070682",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 128,
+    "fields": {
+      "action_time": "2022-04-02T09:01:43.706Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "5",
+      "object_repr": "MPU05 AIRMAN B 9189 BDG SDG 60S 147- 070428",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 129,
+    "fields": {
+      "action_time": "2022-04-02T09:02:54.131Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "6",
+      "object_repr": "MPU06 PERKINS B 9105 QM SILENT U016104M",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 130,
+    "fields": {
+      "action_time": "2022-04-02T09:04:16.611Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "7",
+      "object_repr": "MPU07 AIRMAN B 9893 EG SDG 75S 163 - 050070",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 131,
+    "fields": {
+      "action_time": "2022-04-02T09:04:39.462Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "MPU02 AIRMAN B 9370 RR SDG 60S 147- 070725",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status genset\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 132,
+    "fields": {
+      "action_time": "2022-04-02T09:04:58.600Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "3",
+      "object_repr": "MPU03 AIRMAN TWH 22 E SDG 60S 147- 070430",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status genset\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 133,
+    "fields": {
+      "action_time": "2022-04-02T09:05:37.167Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "4",
+      "object_repr": "MPU04 AIRMAN B 9188 BDG SDG 60S 147- 070682",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status genset\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 134,
+    "fields": {
+      "action_time": "2022-04-02T09:05:59.823Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "5",
+      "object_repr": "MPU05 AIRMAN B 9189 BDG SDG 60S 147- 070428",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status genset\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 135,
+    "fields": {
+      "action_time": "2022-04-02T09:06:20.758Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "6",
+      "object_repr": "MPU06 PERKINS B 9105 QM SILENT U016104M",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status genset\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 136,
+    "fields": {
+      "action_time": "2022-04-02T09:06:36.442Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "7",
+      "object_repr": "MPU07 AIRMAN B 9893 EG SDG 75S 163 - 050070",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status genset\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 137,
+    "fields": {
+      "action_time": "2022-04-02T09:08:16.021Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "8",
+      "object_repr": "MPU08 AIRMAN B 9990 BDC SDG 75S 163 - 050077",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 138,
+    "fields": {
+      "action_time": "2022-04-02T09:09:18.046Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "9",
+      "object_repr": "MPU09 NIPPON SHARYO B 9618 AG NES 90SHE GF 112400",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 139,
+    "fields": {
+      "action_time": "2022-04-02T09:10:23.058Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "10",
+      "object_repr": "MPU10 NIPPON SHARYO B 9992 BDC NES 90SHE GF 045900",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 140,
+    "fields": {
+      "action_time": "2022-04-02T09:12:18.701Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "11",
+      "object_repr": "MPU11 NIPPON SHARYO B 9614 RX NES 90SHE GF 048300",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 141,
+    "fields": {
+      "action_time": "2022-04-02T09:13:17.061Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "12",
+      "object_repr": "MPU12 NIPPON SHARYO B 9991 BDC NES 90SHE GF 047200",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 142,
+    "fields": {
+      "action_time": "2022-04-02T09:14:04.385Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "13",
+      "object_repr": "MPU13 NIPPON SHARYO B 9837 BDE NES 90Ei GJ 017100",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 143,
+    "fields": {
+      "action_time": "2022-04-02T09:14:55.036Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "14",
+      "object_repr": "MPU14 NIPPON SHARYO B 9274 XU NES 90Ei GJ 026300",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 144,
+    "fields": {
+      "action_time": "2022-04-02T09:15:42.968Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "15",
+      "object_repr": "MPU15 NIPPON SHARYO B 9368 RR NES 90Ei GJ 016400",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 145,
+    "fields": {
+      "action_time": "2022-04-02T09:16:46.305Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "16",
+      "object_repr": "MPU16 DENYO B 9811 WW DCA 125 SPK3 1342646",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 146,
+    "fields": {
+      "action_time": "2022-04-02T09:18:44.389Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "17",
+      "object_repr": "MPU017 KOMATSU B 9109 PDD S6D 116997",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 147,
+    "fields": {
+      "action_time": "2022-04-02T09:19:39.275Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "18",
+      "object_repr": "MPU18 CUMMINS B 9108 PDD 6BT 21249046",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 148,
+    "fields": {
+      "action_time": "2022-04-02T09:20:36.273Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "19",
+      "object_repr": "MPU19 CUMMINS B 9993 BDC 6 CTA 2143214",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 149,
+    "fields": {
+      "action_time": "2022-04-02T09:21:43.096Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "20",
+      "object_repr": "MPU20 AIRMAN B 9836 BDE SDG 220S 157 - 020296",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 150,
+    "fields": {
+      "action_time": "2022-04-02T09:22:28.140Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "21",
+      "object_repr": "MPU21 DENYO B 9835 BDE DCA 220SP 1334932",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 151,
+    "fields": {
+      "action_time": "2022-04-02T09:24:18.833Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "22",
+      "object_repr": "MPU22 CUMMINS CCEC (BIRU SCTV) B 9341 PDE NTA 41252918",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 152,
+    "fields": {
+      "action_time": "2022-04-02T09:25:22.175Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "23",
+      "object_repr": "MPU23 CUMMINS CCEC (HIJAU IVM) B 9113 BDI NTA 41270675",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 153,
+    "fields": {
+      "action_time": "2022-04-02T09:29:39.346Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "24",
+      "object_repr": "SNG SCTV 1 SDMO B 9420 RY None 14116 SQ",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 154,
+    "fields": {
+      "action_time": "2022-04-02T09:31:35.781Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "25",
+      "object_repr": "SNG SCTV 2 PERKINS FG WILLSON B 7706 BO None HL 51102U514709K",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 155,
+    "fields": {
+      "action_time": "2022-04-02T09:33:06.263Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "26",
+      "object_repr": "SNG HIACE SCTV 1 HONDA B 7273 PDA None EASJ 1240976",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 156,
+    "fields": {
+      "action_time": "2022-04-02T09:34:55.049Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "27",
+      "object_repr": "SNG IVM 1 SAWADA B 9634 MJ SW - 10SHBS 22329",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 157,
+    "fields": {
+      "action_time": "2022-04-02T09:35:51.453Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "28",
+      "object_repr": "SNG IVM 2 SAWADA B 9374 PJ SW - 10SHBS 21568",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 158,
+    "fields": {
+      "action_time": "2022-04-02T09:37:17.554Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "29",
+      "object_repr": "SNG HIACE IVM 1 HONDA B 7746 PDA None EASJ 1240978",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 159,
+    "fields": {
+      "action_time": "2022-04-02T09:38:38.908Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "MPU02 AIRMAN B 9370 RR SDG 60S 147- 070725",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 160,
+    "fields": {
+      "action_time": "2022-04-02T09:40:04.994Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "3",
+      "object_repr": "MPU03 AIRMAN TWH 22 E SDG 60S 147- 070430",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 161,
+    "fields": {
+      "action_time": "2022-04-02T09:41:47.960Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "5",
+      "object_repr": "MPU05 AIRMAN B 9189 BDG SDG 60S 147- 070428",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 162,
+    "fields": {
+      "action_time": "2022-04-02T09:42:48.235Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "4",
+      "object_repr": "MPU04 AIRMAN B 9188 BDG SDG 60S 147- 070682",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 163,
+    "fields": {
+      "action_time": "2022-04-02T09:44:00.642Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "6",
+      "object_repr": "MPU06 PERKINS B 9105 QM SILENT U016104M",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 164,
+    "fields": {
+      "action_time": "2022-04-02T09:46:21.033Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "7",
+      "object_repr": "MPU07 AIRMAN B 9893 EG SDG 75S 163 - 050070",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 165,
+    "fields": {
+      "action_time": "2022-04-02T09:47:17.192Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "8",
+      "object_repr": "MPU08 AIRMAN B 9990 BDC SDG 75S 163 - 050077",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 166,
+    "fields": {
+      "action_time": "2022-04-02T09:51:26.254Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "15",
+      "object_repr": "MPU15 NIPPON SHARYO B 9368 RR NES 90Ei GJ 016450",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sn genset\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 167,
+    "fields": {
+      "action_time": "2022-04-02T09:53:54.996Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "15",
+      "object_repr": "MPU15 NIPPON SHARYO B 9368 RR NES 90Ei GJ 016450",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 168,
+    "fields": {
+      "action_time": "2022-04-02T09:55:36.506Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "9",
+      "object_repr": "MPU09 NIPPON SHARYO B 9618 AG NES 90SHE GF 112400",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 169,
+    "fields": {
+      "action_time": "2022-04-02T09:56:50.695Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "10",
+      "object_repr": "MPU10 NIPPON SHARYO B 9992 BDC NES 90SHE GF 045900",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 170,
+    "fields": {
+      "action_time": "2022-04-02T09:57:32.266Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "11",
+      "object_repr": "MPU11 NIPPON SHARYO B 9614 RX NES 90SHE GF 048300",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 171,
+    "fields": {
+      "action_time": "2022-04-02T09:58:16.791Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "12",
+      "object_repr": "MPU12 NIPPON SHARYO B 9991 BDC NES 90SHE GF 047200",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 172,
+    "fields": {
+      "action_time": "2022-04-02T10:00:12.098Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "13",
+      "object_repr": "MPU13 NIPPON SHARYO B 9837 BDE NES 90Ei GJ 017100",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 173,
+    "fields": {
+      "action_time": "2022-04-02T10:02:10.730Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "14",
+      "object_repr": "MPU14 NIPPON SHARYO B 9274 XU NES 90Ei GJ 026300",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 174,
+    "fields": {
+      "action_time": "2022-04-02T10:08:41.925Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "16",
+      "object_repr": "MPU16 DENYO B 9811 WW DCA 125 SPK3 1342646",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 175,
+    "fields": {
+      "action_time": "2022-04-02T10:12:24.623Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "17",
+      "object_repr": "MPU017 KOMATSU B 9109 PDD S6D 116997",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 176,
+    "fields": {
+      "action_time": "2022-04-02T10:18:24.802Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "18",
+      "object_repr": "MPU18 CUMMINS B 9108 PDD 6BT 21249046",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 177,
+    "fields": {
+      "action_time": "2022-04-02T10:20:19.658Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "20",
+      "object_repr": "MPU20 AIRMAN B 9836 BDE SDG 220S 157 - 020296",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 178,
+    "fields": {
+      "action_time": "2022-04-02T10:22:00.831Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "21",
+      "object_repr": "MPU21 DENYO B 9835 BDE DCA 220SP 1334932",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 179,
+    "fields": {
+      "action_time": "2022-04-02T10:24:31.163Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "19",
+      "object_repr": "MPU19 CUMMINS B 9993 BDC 6 CTA 2143214",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 180,
+    "fields": {
+      "action_time": "2022-04-02T10:31:23.178Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "22",
+      "object_repr": "MPU22 CUMMINS CCEC (BIRU SCTV) B 9341 PDE NTA 41252918",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 181,
+    "fields": {
+      "action_time": "2022-04-02T10:32:23.380Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "23",
+      "object_repr": "MPU23 CUMMINS CCEC (HIJAU IVM) B 9113 BDI NTA 41270675",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Sparepart\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 182,
+    "fields": {
+      "action_time": "2022-04-02T12:02:12.915Z",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "4",
+      "object_repr": "MPU04 AIRMAN B 9188 BDG SDG 60S 147- 070682",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Status genset\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 183,
+    "fields": {
+      "action_time": "2022-04-02T12:43:49.945Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "42",
+      "object_repr": "OLI SHELL RIMULA None",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 184,
+    "fields": {
+      "action_time": "2022-04-02T12:44:04.467Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "43",
+      "object_repr": "SOLAR SHELL DIESEL None",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 185,
+    "fields": {
+      "action_time": "2022-04-03T09:05:08.693Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "9",
+      "object_repr": "FILTER AIR",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limit notif\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 186,
+    "fields": {
+      "action_time": "2022-04-03T09:05:14.090Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "8",
+      "object_repr": "AKI",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limit notif\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 187,
+    "fields": {
+      "action_time": "2022-04-03T09:05:21.403Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "7",
+      "object_repr": "OLI",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limit notif\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 188,
+    "fields": {
+      "action_time": "2022-04-03T09:05:55.061Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "7",
+      "object_repr": "OLI",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limit notif\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 189,
+    "fields": {
+      "action_time": "2022-04-03T09:06:05.798Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "6",
+      "object_repr": "COOLANT",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limit notif\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 190,
+    "fields": {
+      "action_time": "2022-04-03T09:06:19.008Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "5",
+      "object_repr": "SOLAR",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limit notif\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 191,
+    "fields": {
+      "action_time": "2022-04-03T09:06:27.039Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "4",
+      "object_repr": "VAN BELT",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limit notif\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 192,
+    "fields": {
+      "action_time": "2022-04-03T09:06:36.380Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "3",
+      "object_repr": "FILTER UDARA",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limit notif\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 193,
+    "fields": {
+      "action_time": "2022-04-03T09:06:41.070Z",
+      "user": 1,
+      "content_type": 17,
+      "object_id": "2",
+      "object_repr": "FILTER SOLAR",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Limit notif\"]}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add genset",
+      "content_type": 7,
+      "codename": "add_genset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change genset",
+      "content_type": 7,
+      "codename": "change_genset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete genset",
+      "content_type": 7,
+      "codename": "delete_genset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view genset",
+      "content_type": 7,
+      "codename": "view_genset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add sparepart",
+      "content_type": 8,
+      "codename": "add_sparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change sparepart",
+      "content_type": 8,
+      "codename": "change_sparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete sparepart",
+      "content_type": 8,
+      "codename": "delete_sparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view sparepart",
+      "content_type": 8,
+      "codename": "view_sparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add utilitas",
+      "content_type": 9,
+      "codename": "add_utilitas"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change utilitas",
+      "content_type": 9,
+      "codename": "change_utilitas"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete utilitas",
+      "content_type": 9,
+      "codename": "delete_utilitas"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view utilitas",
+      "content_type": 9,
+      "codename": "view_utilitas"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add servis",
+      "content_type": 10,
+      "codename": "add_servis"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change servis",
+      "content_type": 10,
+      "codename": "change_servis"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete servis",
+      "content_type": 10,
+      "codename": "delete_servis"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view servis",
+      "content_type": 10,
+      "codename": "view_servis"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add engine genset",
+      "content_type": 11,
+      "codename": "add_enginegenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change engine genset",
+      "content_type": 11,
+      "codename": "change_enginegenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete engine genset",
+      "content_type": 11,
+      "codename": "delete_enginegenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view engine genset",
+      "content_type": 11,
+      "codename": "view_enginegenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+      "name": "Can add generator",
+      "content_type": 12,
+      "codename": "add_generator"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+      "name": "Can change generator",
+      "content_type": 12,
+      "codename": "change_generator"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+      "name": "Can delete generator",
+      "content_type": 12,
+      "codename": "delete_generator"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+      "name": "Can view generator",
+      "content_type": 12,
+      "codename": "view_generator"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+      "name": "Can add merek",
+      "content_type": 13,
+      "codename": "add_merek"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+      "name": "Can change merek",
+      "content_type": 13,
+      "codename": "change_merek"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+      "name": "Can delete merek",
+      "content_type": 13,
+      "codename": "delete_merek"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+      "name": "Can view merek",
+      "content_type": 13,
+      "codename": "view_merek"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+      "name": "Can add tipe genset",
+      "content_type": 14,
+      "codename": "add_tipegenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+      "name": "Can change tipe genset",
+      "content_type": 14,
+      "codename": "change_tipegenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+      "name": "Can delete tipe genset",
+      "content_type": 14,
+      "codename": "delete_tipegenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+      "name": "Can view tipe genset",
+      "content_type": 14,
+      "codename": "view_tipegenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+      "name": "Can add kebutuhan sparepart",
+      "content_type": 15,
+      "codename": "add_kebutuhansparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+      "name": "Can change kebutuhan sparepart",
+      "content_type": 15,
+      "codename": "change_kebutuhansparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+      "name": "Can delete kebutuhan sparepart",
+      "content_type": 15,
+      "codename": "delete_kebutuhansparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+      "name": "Can view kebutuhan sparepart",
+      "content_type": 15,
+      "codename": "view_kebutuhansparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+      "name": "Can add data genset",
+      "content_type": 16,
+      "codename": "add_datagenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+      "name": "Can change data genset",
+      "content_type": 16,
+      "codename": "change_datagenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+      "name": "Can delete data genset",
+      "content_type": 16,
+      "codename": "delete_datagenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+      "name": "Can view data genset",
+      "content_type": 16,
+      "codename": "view_datagenset"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+      "name": "Can add tipe sparepart",
+      "content_type": 17,
+      "codename": "add_tipesparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+      "name": "Can change tipe sparepart",
+      "content_type": 17,
+      "codename": "change_tipesparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+      "name": "Can delete tipe sparepart",
+      "content_type": 17,
+      "codename": "delete_tipesparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+      "name": "Can view tipe sparepart",
+      "content_type": 17,
+      "codename": "view_tipesparepart"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 69,
+    "fields": {
+      "name": "Can add sparepart utility",
+      "content_type": 18,
+      "codename": "add_sparepartutility"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 70,
+    "fields": {
+      "name": "Can change sparepart utility",
+      "content_type": 18,
+      "codename": "change_sparepartutility"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 71,
+    "fields": {
+      "name": "Can delete sparepart utility",
+      "content_type": 18,
+      "codename": "delete_sparepartutility"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 72,
+    "fields": {
+      "name": "Can view sparepart utility",
+      "content_type": 18,
+      "codename": "view_sparepartutility"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 73,
+    "fields": {
+      "name": "Can add genset utility",
+      "content_type": 19,
+      "codename": "add_gensetutility"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 74,
+    "fields": {
+      "name": "Can change genset utility",
+      "content_type": 19,
+      "codename": "change_gensetutility"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 75,
+    "fields": {
+      "name": "Can delete genset utility",
+      "content_type": 19,
+      "codename": "delete_gensetutility"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 76,
+    "fields": {
+      "name": "Can view genset utility",
+      "content_type": 19,
+      "codename": "view_gensetutility"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$320000$QNH9B21hazL37dR1luuRW5$D4jbf594xoaBzp9/KVP9NLBiiJ0+Beq7b5LIle6SlqA=",
+      "last_login": "2022-04-01T16:05:39.820Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "admin@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-03-29T12:53:27.133Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "tvzjx0x1oj7gpsipxt6xngf65802thjw",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hBgCnRcuu8ZyMyAUjVtUtqV8e7apAvd_vfef6lE21rT1sqSxqzOyqrT78YkjzLtIN9pus1a5mldRta7og_a9DDn8rwc7t9BpVa_dS_Qg5MSATB0mAs4Ygrko71agx0aAbBMRgS8BzYSIAI6YGRGKur9Acm4N2M:1naJmN:vEYKPTpjeTleWwosm58HXbROWtCvT3qTNisfcQscvUw",
+      "expire_date": "2022-04-15T16:05:39.821Z"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "v96vbciuwo539yvaoiihy7de8rd4rmsj",
+    "fields": {
+      "session_data": ".eJxVjEEOwiAQRe_C2hBgCnRcuu8ZyMyAUjVtUtqV8e7apAvd_vfef6lE21rT1sqSxqzOyqrT78YkjzLtIN9pus1a5mldRta7og_a9DDn8rwc7t9BpVa_dS_Qg5MSATB0mAs4Ygrko71agx0aAbBMRgS8BzYSIAI6YGRGKur9Acm4N2M:1nZBLo:5bI_lPRta9eTeE9SwsIX7hSSej1DvXQ_Ze9DKdMrRE8",
+      "expire_date": "2022-04-12T12:53:32.527Z"
+    }
+  },
+  {
+    "model": "app.tipesparepart",
+    "pk": 1,
+    "fields": {
+      "jenis_sparepart": "FILTER OLI",
+      "limit_notif": 0
+    }
+  },
+  {
+    "model": "app.tipesparepart",
+    "pk": 2,
+    "fields": {
+      "jenis_sparepart": "FILTER SOLAR",
+      "limit_notif": 2
+    }
+  },
+  {
+    "model": "app.tipesparepart",
+    "pk": 3,
+    "fields": {
+      "jenis_sparepart": "FILTER UDARA",
+      "limit_notif": 1
+    }
+  },
+  {
+    "model": "app.tipesparepart",
+    "pk": 4,
+    "fields": {
+      "jenis_sparepart": "VAN BELT",
+      "limit_notif": 1
+    }
+  },
+  {
+    "model": "app.tipesparepart",
+    "pk": 5,
+    "fields": {
+      "jenis_sparepart": "SOLAR",
+      "limit_notif": 50
+    }
+  },
+  {
+    "model": "app.tipesparepart",
+    "pk": 6,
+    "fields": {
+      "jenis_sparepart": "COOLANT",
+      "limit_notif": 40
+    }
+  },
+  {
+    "model": "app.tipesparepart",
+    "pk": 7,
+    "fields": {
+      "jenis_sparepart": "OLI",
+      "limit_notif": 50
+    }
+  },
+  {
+    "model": "app.tipesparepart",
+    "pk": 8,
+    "fields": {
+      "jenis_sparepart": "AKI",
+      "limit_notif": 2
+    }
+  },
+  {
+    "model": "app.tipesparepart",
+    "pk": 9,
+    "fields": {
+      "jenis_sparepart": "FILTER AIR",
+      "limit_notif": 2
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 1,
+    "fields": {
+      "tipe_sparepart": 2,
+      "qty": 10,
+      "merek": "SAKURA",
+      "pn": "FC 1501"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 2,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "SAKURA",
+      "pn": "C 1706"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 3,
+    "fields": {
+      "tipe_sparepart": 3,
+      "qty": 10,
+      "merek": "DONALDSON",
+      "pn": "P 815288"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 5,
+    "fields": {
+      "tipe_sparepart": 2,
+      "qty": 10,
+      "merek": "PROGARD",
+      "pn": "PFC 084"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 6,
+    "fields": {
+      "tipe_sparepart": 2,
+      "qty": 10,
+      "merek": "SAKURA",
+      "pn": "FC 1303"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 7,
+    "fields": {
+      "tipe_sparepart": 2,
+      "qty": -1,
+      "merek": "SAKURA",
+      "pn": "FC 2701"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 8,
+    "fields": {
+      "tipe_sparepart": 2,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "FF 5052"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 9,
+    "fields": {
+      "tipe_sparepart": 2,
+      "qty": 10,
+      "merek": "UNION",
+      "pn": "UFC 1902"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 10,
+    "fields": {
+      "tipe_sparepart": 2,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "FF 105 D"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 11,
+    "fields": {
+      "tipe_sparepart": 2,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "FS 1000"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 12,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "SAKURA",
+      "pn": "O 1502"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 13,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "PROGARD",
+      "pn": "POC 154"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 14,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "SAKURA",
+      "pn": "O 1301"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 15,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "LF 670"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 16,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 4,
+      "merek": "SAKURA",
+      "pn": "C 1304"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 17,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "LF 3394"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 18,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "UNION",
+      "pn": "UOC 9104"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 19,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "HINO",
+      "pn": "15607-1340"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 20,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "LF 747"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 21,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "LF 3000"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 22,
+    "fields": {
+      "tipe_sparepart": 1,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "LF 9009"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 23,
+    "fields": {
+      "tipe_sparepart": 9,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "WF 2051"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 24,
+    "fields": {
+      "tipe_sparepart": 9,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "WF 2075"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 25,
+    "fields": {
+      "tipe_sparepart": 9,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "WF 2076"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 26,
+    "fields": {
+      "tipe_sparepart": 3,
+      "qty": 10,
+      "merek": "JIMCO",
+      "pn": null
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 27,
+    "fields": {
+      "tipe_sparepart": 3,
+      "qty": 10,
+      "merek": "SAKURA",
+      "pn": "AS 1010"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 28,
+    "fields": {
+      "tipe_sparepart": 3,
+      "qty": 8,
+      "merek": "SAKURA",
+      "pn": "FC 2701"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 29,
+    "fields": {
+      "tipe_sparepart": 3,
+      "qty": 10,
+      "merek": "KOMATSU",
+      "pn": "600-181-6550"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 30,
+    "fields": {
+      "tipe_sparepart": 3,
+      "qty": 10,
+      "merek": "FLEETGUARD",
+      "pn": "AF 928 M-A"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 31,
+    "fields": {
+      "tipe_sparepart": 4,
+      "qty": 10,
+      "merek": "MITSUBOSHI",
+      "pn": "RCEMF 8460"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 32,
+    "fields": {
+      "tipe_sparepart": 4,
+      "qty": 10,
+      "merek": "PERKINS",
+      "pn": "2614 B 358"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 33,
+    "fields": {
+      "tipe_sparepart": 4,
+      "qty": 10,
+      "merek": "BANDO",
+      "pn": "RPF 5840"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 34,
+    "fields": {
+      "tipe_sparepart": 4,
+      "qty": 10,
+      "merek": "MITSUBOSHI",
+      "pn": "113671-2270"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 35,
+    "fields": {
+      "tipe_sparepart": 4,
+      "qty": 5,
+      "merek": "BANDO",
+      "pn": "RPF 5550"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 36,
+    "fields": {
+      "tipe_sparepart": 4,
+      "qty": 10,
+      "merek": "CUMMINS",
+      "pn": "217638 ID: 21013"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 37,
+    "fields": {
+      "tipe_sparepart": 4,
+      "qty": 10,
+      "merek": "CUMMINS",
+      "pn": "3040303 ID: 21013"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 38,
+    "fields": {
+      "tipe_sparepart": 4,
+      "qty": 10,
+      "merek": "CUMMINS",
+      "pn": "178708 ID: 21013"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 39,
+    "fields": {
+      "tipe_sparepart": 8,
+      "qty": 5,
+      "merek": "GS ASTRA",
+      "pn": "N 100"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 40,
+    "fields": {
+      "tipe_sparepart": 6,
+      "qty": 6,
+      "merek": "PRESTONE",
+      "pn": "AF 85338"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 41,
+    "fields": {
+      "tipe_sparepart": 8,
+      "qty": 10,
+      "merek": "GS ASTRA",
+      "pn": "N 70"
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 42,
+    "fields": {
+      "tipe_sparepart": 7,
+      "qty": 10,
+      "merek": "SHELL RIMULA",
+      "pn": null
+    }
+  },
+  {
+    "model": "app.sparepart",
+    "pk": 43,
+    "fields": {
+      "tipe_sparepart": 5,
+      "qty": 10,
+      "merek": "SHELL DIESEL",
+      "pn": null
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 1,
+    "fields": {
+      "jenis_genset": "MPU02",
+      "merek_genset": "AIRMAN",
+      "type_genset": "SDG 60S",
+      "sn_genset": "147- 070725",
+      "kva": "50",
+      "merek_engine": "ISUZU",
+      "type_engine": "4 BD1",
+      "merek_generator": "TAIYO",
+      "sn_generator": "GS 17920",
+      "model_generator": "TWH 22 E",
+      "nopol": "B 9370 RR",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        1,
+        2,
+        3,
+        31,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 2,
+    "fields": {
+      "jenis_genset": "MPU01",
+      "merek_genset": "FG WILLSON",
+      "type_genset": null,
+      "sn_genset": "HP 51099 U 983698 K",
+      "kva": "20",
+      "merek_engine": "PERKINS",
+      "type_engine": "P 20P2",
+      "merek_generator": "LEROY SOMER",
+      "sn_generator": "153097/18",
+      "model_generator": null,
+      "nopol": "B 9912 PAT",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": []
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 3,
+    "fields": {
+      "jenis_genset": "MPU03",
+      "merek_genset": "AIRMAN",
+      "type_genset": "SDG 60S",
+      "sn_genset": "147- 070430",
+      "kva": "50",
+      "merek_engine": "ISUZU",
+      "type_engine": "4 BD1",
+      "merek_generator": "TAIYO",
+      "sn_generator": "GR 13693",
+      "model_generator": "TWH 22 E",
+      "nopol": "TWH 22 E",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        1,
+        2,
+        3,
+        12,
+        31,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 4,
+    "fields": {
+      "jenis_genset": "MPU04",
+      "merek_genset": "AIRMAN",
+      "type_genset": "SDG 60S",
+      "sn_genset": "147- 070682",
+      "kva": "50",
+      "merek_engine": "ISUZU",
+      "type_engine": "4 BD1",
+      "merek_generator": "TAIYO",
+      "sn_generator": "GS 15578",
+      "model_generator": "TWH 22 E",
+      "nopol": "B 9188 BDG",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        1,
+        2,
+        3,
+        31,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 5,
+    "fields": {
+      "jenis_genset": "MPU05",
+      "merek_genset": "AIRMAN",
+      "type_genset": "SDG 60S",
+      "sn_genset": "147- 070428",
+      "kva": "50",
+      "merek_engine": "ISUZU",
+      "type_engine": "4 BD1",
+      "merek_generator": "TAIYO",
+      "sn_generator": "GR 13692",
+      "model_generator": "TWH 22 E",
+      "nopol": "B 9189 BDG",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        1,
+        3,
+        12,
+        31,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 6,
+    "fields": {
+      "jenis_genset": "MPU06",
+      "merek_genset": "PERKINS",
+      "type_genset": "SILENT",
+      "sn_genset": "U016104M",
+      "kva": "50",
+      "merek_engine": "PERKINS",
+      "type_engine": "113A-33T",
+      "merek_generator": "LEROY SOMER",
+      "sn_generator": "LSA 43.2 M45 J6/4",
+      "model_generator": null,
+      "nopol": "B 9105 QM",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        5,
+        13,
+        26,
+        32,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 7,
+    "fields": {
+      "jenis_genset": "MPU07",
+      "merek_genset": "AIRMAN",
+      "type_genset": "SDG 75S",
+      "sn_genset": "163 - 050070",
+      "kva": "60",
+      "merek_engine": "ISUZU",
+      "type_engine": "6BG1T",
+      "merek_generator": "TAIYO",
+      "sn_generator": "GR 10790",
+      "model_generator": "TWH 25 B",
+      "nopol": "B 9893 EG",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        3,
+        6,
+        14,
+        33,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 8,
+    "fields": {
+      "jenis_genset": "MPU08",
+      "merek_genset": "AIRMAN",
+      "type_genset": "SDG 75S",
+      "sn_genset": "163 - 050077",
+      "kva": "60",
+      "merek_engine": "ISUZU",
+      "type_engine": "6BG1T",
+      "merek_generator": "TAIYO",
+      "sn_generator": "GR 12496",
+      "model_generator": "TWH 25 B",
+      "nopol": "B 9990 BDC",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        3,
+        6,
+        14,
+        33,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 9,
+    "fields": {
+      "jenis_genset": "MPU09",
+      "merek_genset": "NIPPON SHARYO",
+      "type_genset": "NES 90SHE",
+      "sn_genset": "GF 112400",
+      "kva": "75",
+      "merek_engine": "HINO",
+      "type_engine": "H 07D - C",
+      "merek_generator": "BRUSSHLESS AC GENERATOR",
+      "sn_generator": "NEA 7504",
+      "model_generator": null,
+      "nopol": "B 9618 AG",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        7,
+        16,
+        28,
+        35,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 10,
+    "fields": {
+      "jenis_genset": "MPU10",
+      "merek_genset": "NIPPON SHARYO",
+      "type_genset": "NES 90SHE",
+      "sn_genset": "GF 045900",
+      "kva": "75",
+      "merek_engine": "HINO",
+      "type_engine": "H 07D - C",
+      "merek_generator": "BRUSSHLESS AC GENERATOR",
+      "sn_generator": "NEA 7504",
+      "model_generator": null,
+      "nopol": "B 9992 BDC",
+      "status_genset": "SERVIS",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        7,
+        16,
+        28,
+        35,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 11,
+    "fields": {
+      "jenis_genset": "MPU11",
+      "merek_genset": "NIPPON SHARYO",
+      "type_genset": "NES 90SHE",
+      "sn_genset": "GF 048300",
+      "kva": "75",
+      "merek_engine": "HINO",
+      "type_engine": "H 07D - C",
+      "merek_generator": "BRUSSHLESS AC GENERATOR",
+      "sn_generator": "NEA 7504",
+      "model_generator": null,
+      "nopol": "B 9614 RX",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        7,
+        16,
+        28,
+        35,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 12,
+    "fields": {
+      "jenis_genset": "MPU12",
+      "merek_genset": "NIPPON SHARYO",
+      "type_genset": "NES 90SHE",
+      "sn_genset": "GF 047200",
+      "kva": "75",
+      "merek_engine": "HINO",
+      "type_engine": "H 07D - C",
+      "merek_generator": "BRUSSHLESS AC GENERATOR",
+      "sn_generator": "NEA 7504",
+      "model_generator": null,
+      "nopol": "B 9991 BDC",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        7,
+        16,
+        28,
+        35,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 13,
+    "fields": {
+      "jenis_genset": "MPU13",
+      "merek_genset": "NIPPON SHARYO",
+      "type_genset": "NES 90Ei",
+      "sn_genset": "GJ 017100",
+      "kva": "75",
+      "merek_engine": "ISUZU",
+      "type_engine": "6BG1T",
+      "merek_generator": "BRUSSHLESS AC GENERATOR",
+      "sn_generator": "NEA 7504",
+      "model_generator": null,
+      "nopol": "B 9837 BDE",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        7,
+        16,
+        27,
+        34
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 14,
+    "fields": {
+      "jenis_genset": "MPU14",
+      "merek_genset": "NIPPON SHARYO",
+      "type_genset": "NES 90Ei",
+      "sn_genset": "GJ 026300",
+      "kva": "75",
+      "merek_engine": "ISUZU",
+      "type_engine": "6BG1T",
+      "merek_generator": "BRUSSHLESS AC GENERATOR",
+      "sn_generator": "NEA 7504",
+      "model_generator": null,
+      "nopol": "B 9274 XU",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        7,
+        15,
+        27,
+        34,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 15,
+    "fields": {
+      "jenis_genset": "MPU15",
+      "merek_genset": "NIPPON SHARYO",
+      "type_genset": "NES 90Ei",
+      "sn_genset": "GJ 016450",
+      "kva": "75",
+      "merek_engine": "ISUZU",
+      "type_engine": "6BG1T",
+      "merek_generator": "BRUSSHLESS AC GENERATOR",
+      "sn_generator": "NEA 7504",
+      "model_generator": null,
+      "nopol": "B 9368 RR",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        7,
+        15,
+        27,
+        34,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 16,
+    "fields": {
+      "jenis_genset": "MPU16",
+      "merek_genset": "DENYO",
+      "type_genset": "DCA 125 SPK3",
+      "sn_genset": "1342646",
+      "kva": "100",
+      "merek_engine": "KOMATSU",
+      "type_engine": "SA6D 102E-1",
+      "merek_generator": "BRUSSHLESS AC GENERATOR",
+      "sn_generator": "704677",
+      "model_generator": "DB 1381K",
+      "nopol": "B 9811 WW",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        8,
+        17,
+        29,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 17,
+    "fields": {
+      "jenis_genset": "MPU017",
+      "merek_genset": "KOMATSU",
+      "type_genset": "S6D",
+      "sn_genset": "116997",
+      "kva": "100",
+      "merek_engine": "KOMATSU",
+      "type_engine": "S6D105-1",
+      "merek_generator": "NEW AGE STAMFORD",
+      "sn_generator": "PATRIA PL 100",
+      "model_generator": null,
+      "nopol": "B 9109 PDD",
+      "status_genset": "SERVIS",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        9,
+        18,
+        23,
+        29,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 18,
+    "fields": {
+      "jenis_genset": "MPU18",
+      "merek_genset": "CUMMINS",
+      "type_genset": "6BT",
+      "sn_genset": "21249046",
+      "kva": "100",
+      "merek_engine": "CUMMINS",
+      "type_engine": "6BT 5.9G2",
+      "merek_generator": "NEW AGE STAMFORD",
+      "sn_generator": "150 11427 RV",
+      "model_generator": null,
+      "nopol": "B 9108 PDD",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        8,
+        17,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 19,
+    "fields": {
+      "jenis_genset": "MPU19",
+      "merek_genset": "CUMMINS",
+      "type_genset": "6 CTA",
+      "sn_genset": "2143214",
+      "kva": "150",
+      "merek_engine": "CUMMINS",
+      "type_engine": "6 CTA 9.3-G",
+      "merek_generator": "NEW AGE STAMFORD",
+      "sn_generator": null,
+      "model_generator": null,
+      "nopol": "B 9993 BDC",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        8,
+        21,
+        24,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 20,
+    "fields": {
+      "jenis_genset": "MPU20",
+      "merek_genset": "AIRMAN",
+      "type_genset": "SDG 220S",
+      "sn_genset": "157 - 020296",
+      "kva": "200",
+      "merek_engine": "HINO",
+      "type_engine": "EK 130",
+      "merek_generator": "TAIYO",
+      "sn_generator": "8283",
+      "model_generator": "TWH  52A",
+      "nopol": "B 9836 BDE",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        19,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 21,
+    "fields": {
+      "jenis_genset": "MPU21",
+      "merek_genset": "DENYO",
+      "type_genset": "DCA 220SP",
+      "sn_genset": "1334932",
+      "kva": "200",
+      "merek_engine": "KOMATSU",
+      "type_engine": "S6D125-1",
+      "merek_generator": "Denyo",
+      "sn_generator": "551945",
+      "model_generator": "DB 2531K",
+      "nopol": "B 9835 BDE",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        10,
+        20,
+        23,
+        39,
+        40
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 22,
+    "fields": {
+      "jenis_genset": "MPU22",
+      "merek_genset": "CUMMINS CCEC (BIRU SCTV)",
+      "type_genset": "NTA",
+      "sn_genset": "41252918",
+      "kva": "350",
+      "merek_engine": "CUMMINS",
+      "type_engine": "NTA 855-G4",
+      "merek_generator": "STAMFORD",
+      "sn_generator": "X16L526615",
+      "model_generator": null,
+      "nopol": "B 9341 PDE",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        11,
+        22,
+        25,
+        30,
+        36,
+        37,
+        38
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 23,
+    "fields": {
+      "jenis_genset": "MPU23",
+      "merek_genset": "CUMMINS CCEC (HIJAU IVM)",
+      "type_genset": "NTA",
+      "sn_genset": "41270675",
+      "kva": "350",
+      "merek_engine": "CUMMINS",
+      "type_engine": "NTA 855-G4",
+      "merek_generator": "STAMFORD",
+      "sn_generator": "X17K465641",
+      "model_generator": null,
+      "nopol": "B 9113 BDI",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": [
+        11,
+        22,
+        25,
+        30,
+        36,
+        37,
+        38
+      ]
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 24,
+    "fields": {
+      "jenis_genset": "SNG SCTV 1",
+      "merek_genset": "SDMO",
+      "type_genset": null,
+      "sn_genset": "14116 SQ",
+      "kva": "14",
+      "merek_engine": "MITSUBISHI",
+      "type_engine": "S4Q2 - 615D",
+      "merek_generator": "MITSUBISHI",
+      "sn_generator": null,
+      "model_generator": "MECCALTE",
+      "nopol": "B 9420 RY",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": []
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 25,
+    "fields": {
+      "jenis_genset": "SNG SCTV 2",
+      "merek_genset": "PERKINS FG WILLSON",
+      "type_genset": null,
+      "sn_genset": "HL 51102U514709K",
+      "kva": "12.5",
+      "merek_engine": "PERKINS",
+      "type_engine": "P12.5P2",
+      "merek_generator": "FG WILSON",
+      "sn_generator": null,
+      "model_generator": null,
+      "nopol": "B 7706 BO",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": []
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 26,
+    "fields": {
+      "jenis_genset": "SNG HIACE SCTV 1",
+      "merek_genset": "HONDA",
+      "type_genset": null,
+      "sn_genset": "EASJ 1240976",
+      "kva": "6.6",
+      "merek_engine": "HONDA",
+      "type_engine": "EU 6.6iS",
+      "merek_generator": "HONDA",
+      "sn_generator": null,
+      "model_generator": null,
+      "nopol": "B 7273 PDA",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": []
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 27,
+    "fields": {
+      "jenis_genset": "SNG IVM 1",
+      "merek_genset": "SAWADA",
+      "type_genset": "SW - 10SHBS",
+      "sn_genset": "22329",
+      "kva": "10",
+      "merek_engine": "HONDA",
+      "type_engine": null,
+      "merek_generator": "SAWADA",
+      "sn_generator": null,
+      "model_generator": null,
+      "nopol": "B 9634 MJ",
+      "status_genset": "READY",
+      "jam_penggunaan": 14,
+      "jumlah_servis": 0,
+      "sparepart": []
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 28,
+    "fields": {
+      "jenis_genset": "SNG IVM 2",
+      "merek_genset": "SAWADA",
+      "type_genset": "SW - 10SHBS",
+      "sn_genset": "21568",
+      "kva": "10",
+      "merek_engine": "HONDA",
+      "type_engine": null,
+      "merek_generator": "SAWADA",
+      "sn_generator": null,
+      "model_generator": null,
+      "nopol": "B 9374 PJ",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": []
+    }
+  },
+  {
+    "model": "app.datagenset",
+    "pk": 29,
+    "fields": {
+      "jenis_genset": "SNG HIACE IVM 1",
+      "merek_genset": "HONDA",
+      "type_genset": null,
+      "sn_genset": "EASJ 1240978",
+      "kva": "6.6",
+      "merek_engine": "HONDA",
+      "type_engine": "EU 6.6iS",
+      "merek_generator": null,
+      "sn_generator": null,
+      "model_generator": null,
+      "nopol": "B 7746 PDA",
+      "status_genset": "READY",
+      "jam_penggunaan": 0,
+      "jumlah_servis": 0,
+      "sparepart": []
+    }
+  },
+  {
+    "model": "app.gensetutility",
+    "pk": 1,
+    "fields": {
+      "genset": 27,
+      "pic": null,
+      "lama_penggunaan": 8,
+      "alasan_pemakaian": "konser",
+      "lokasi": null,
+      "created_at": "2022-04-03T08:49:45.590Z",
+      "tanggal_pemakaian": "2022-04-01T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.gensetutility",
+    "pk": 2,
+    "fields": {
+      "genset": 27,
+      "pic": null,
+      "lama_penggunaan": 1,
+      "alasan_pemakaian": "manggung",
+      "lokasi": null,
+      "created_at": "2022-04-03T08:50:25.908Z",
+      "tanggal_pemakaian": "2022-04-14T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.gensetutility",
+    "pk": 3,
+    "fields": {
+      "genset": 27,
+      "pic": null,
+      "lama_penggunaan": 5,
+      "alasan_pemakaian": "acara",
+      "lokasi": "jakarta",
+      "created_at": "2022-04-03T08:50:52.147Z",
+      "tanggal_pemakaian": "2022-03-27T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 1,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR": "1"
+      },
+      "tanggal_servis": "2022-04-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 2,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR": "1"
+      },
+      "tanggal_servis": "2022-04-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 3,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR": "1"
+      },
+      "tanggal_servis": "2022-04-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 4,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR": "1"
+      },
+      "tanggal_servis": "2022-04-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 5,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR": "1"
+      },
+      "tanggal_servis": "2022-04-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 6,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR": "1"
+      },
+      "tanggal_servis": "2022-04-07T00:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 7,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR": "1"
+      },
+      "tanggal_servis": "2022-04-06T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 8,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR": "1"
+      },
+      "tanggal_servis": "2022-04-06T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 9,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER OLI": "1"
+      },
+      "tanggal_servis": "2022-04-12T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 10,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER OLI": "1"
+      },
+      "tanggal_servis": "2022-04-12T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 11,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER OLI": "1"
+      },
+      "tanggal_servis": "2022-04-12T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 12,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "VAN BELT": "1"
+      },
+      "tanggal_servis": "2022-04-11T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 13,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "VAN BELT": "1"
+      },
+      "tanggal_servis": "2022-04-11T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 14,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "AKI": "1"
+      },
+      "tanggal_servis": "2022-04-06T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 15,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "AKI": "1"
+      },
+      "tanggal_servis": "2022-04-06T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 16,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "AKI": "1"
+      },
+      "tanggal_servis": "2022-04-06T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 17,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "COOLANT": "1"
+      },
+      "tanggal_servis": "2022-04-04T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 18,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "COOLANT": "1"
+      },
+      "tanggal_servis": "2022-04-04T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 19,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "COOLANT": "1"
+      },
+      "tanggal_servis": "2022-04-04T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 20,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "VAN BELT": "1"
+      },
+      "tanggal_servis": "2022-04-14T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 21,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER UDARA": "1"
+      },
+      "tanggal_servis": "2022-04-15T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 22,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER OLI": "1"
+      },
+      "tanggal_servis": "2022-04-27T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 23,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "AKI": "1"
+      },
+      "tanggal_servis": "2022-04-18T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 24,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER OLI": "1",
+        "FILTER OLI SAKURA C 1304": "1"
+      },
+      "tanggal_servis": "2022-04-11T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 25,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR SAKURA FC 2701": "1"
+      },
+      "tanggal_servis": "2022-04-22T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 26,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER OLI SAKURA C 1304": "1",
+        "FILTER SOLAR SAKURA FC 2701": "1",
+        "FILTER UDARA SAKURA FC 2701": "1",
+        "VAN BELT BANDO RPF 5550": "1",
+        "COOLANT PRESTONE AF 85338": "1",
+        "AKI GS ASTRA N 100": "1"
+      },
+      "tanggal_servis": "2022-05-05T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 27,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "FILTER SOLAR SAKURA FC 2701": "1"
+      },
+      "tanggal_servis": "2022-04-06T17:00:00Z"
+    }
+  },
+  {
+    "model": "app.sparepartutility",
+    "pk": 28,
+    "fields": {
+      "genset": 10,
+      "jenis_servis": "250 JAM",
+      "pic": "admin",
+      "sparepart": {
+        "VAN BELT BANDO RPF 5550": "1"
+      },
+      "tanggal_servis": "2022-04-14T17:00:00Z"
+    }
+  }
+]
